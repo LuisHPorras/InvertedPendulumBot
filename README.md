@@ -4,6 +4,6 @@ This project aims to be a platform to apply control and signal processing theory
 
 # License
 
-Ciclop is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License] (https://creativecommons.org/licenses/by-sa/4.0/)
+InvertedPendulumBot is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License] (https://creativecommons.org/licenses/by-sa/4.0/)
 
 Please read the [LICENSE] (docs/License.md) file for more details.
